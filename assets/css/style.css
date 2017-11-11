@@ -8,7 +8,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 html,
 body {
     background-color: #ffffff;
-    font-size: 15px;
+    font-size: 20px;
     color: #363636;
     width: 100%;
     padding: 0;
@@ -603,7 +603,7 @@ input:-ms-input-placeholder {
 }
 
 .menu-bg{
-    background:#060303;
+    background:#fefefe;
     padding:30px 0;
 }
 
