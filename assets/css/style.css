@@ -570,19 +570,19 @@ input:-ms-input-placeholder {
 .navbar-default {
     background-color:transparent;
     border:transparent;
-    padding-top: 70px;
+    padding-top: 5px;
 }
 
 .navbar {
-    margin-bottom: 20px;
-    border: 1px solid transparent;
+    margin-bottom: 2px;
+    border: 2px solid transparent;
 }
 
 .navbar-default .navbar-nav>.active a{
     background-color:transparent;
 }
 .navbar-default .navbar-nav>.active a:hover{
-    background-color:transparent;
+    background-color:#fff;
     color:#fff;
 }
 .navbar-default .navbar-nav>li>a {
@@ -630,7 +630,7 @@ input:-ms-input-placeholder {
 
 }
 .carousel-indicators {
-    bottom:-50px;
+    bottom:-500px;
 }
 .carousel-indicators li {
     background:#464646;
@@ -642,7 +642,7 @@ input:-ms-input-placeholder {
     padding:15px 20px;
     color:#fff;
     font-size:16px;
-    transition:.5s;
+    transition:.1s;
     -webkit-transition:.5s;
     -moz-transition:.5s;
     -o-transition:.5s;
